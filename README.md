@@ -1,14 +1,18 @@
+
 ### Hello!👋 I'm　Harashima Mitsuhiro!
 ---
-#### introduce
+
+### introduce
 
 🐣 I'm a egg of engneer!<br>
 👨‍🎓 I'm studying software at sunmoon university<br>
 🙌 I like talking with friends please talk to me<br>
 <em>nice to me you!</em>
-
 ---
-### :hammer_and_wrench: Languages and Tools :
+
+### project 
+
+### :hammer_and_wrench: Languages and Tools 
 
 <!--
 <div>
@@ -22,7 +26,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 </div>
 -->
-
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimikkusu&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=mimikkusu&theme=onedark&show_icons=ture" />
