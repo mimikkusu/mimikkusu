@@ -9,8 +9,9 @@
  <a href="mailto:mthr35@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  <a href="https://scythe-bubble-da4.notion.site/harashima-mitsuhiro-4d4de2e2487a4cfd8d4658ad39f2b06e"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 
- [![Instagram](https://img.shields.io/badge/--FFFFFF?style=social&logo=instagram&label=Follow%20haraharamix)](https://www.instagram.com/haraharamix/)
-[![Facebook](https://img.shields.io/badge/--FFFFFF?style=social&logo=facebook&label=Follow%20原島充弘)](https://www.facebook.com/原島充弘/)
+[![Instagram](https://img.shields.io/badge/--FFFFFF?style=social&logo=instagram&label=Follow%20haraharamix)](https://www.instagram.com/haraharamix/)
+[![Github](https://img.shields.io/badge/--FFFFFF?style=social&logo=github&label=Follow%20mimikkusu)](https://github.com/mimikkusu)
+
 </div>
 
 
