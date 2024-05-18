@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=Hello!&section=header&textBg=false&reversal=false&rotate=0)
+
+ ![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=mimikkusu&section=header&textBg=false&reversal=false&rotate=0&desc=github&descSize=30&descAlignY=70)
 
 
 ## Hello!👋 I'm　Harashima Mitsuhiro!
