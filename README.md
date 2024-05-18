@@ -1,13 +1,14 @@
 <div align ="center">
  
  ![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=mimikkusu&section=header&textBg=false&reversal=false&rotate=0&desc=github&descSize=30&descAlignY=70)
- 
+ ![header](https://scythe-bubble-da4.notion.site/harashima-mitsuhiro-4d4de2e2487a4cfd8d4658ad39f2b06e)
  </div>
 <div align = "center">
   <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFmODFndDRmNGZkMG5uYXR0OG4zNXNsM2h5MmF6c2Y3eTd0ODNoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j0nQ1rhf13Nmg/giphy.gif" width="200" />
 </div>
 <div align = "center">
  <a href="mailto:mthr35@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href="https://scythe-bubble-da4.notion.site/harashima-mitsuhiro-4d4de2e2487a4cfd8d4658ad39f2b06e"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
 </div>
 
 ---
