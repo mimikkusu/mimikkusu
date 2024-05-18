@@ -22,4 +22,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
 </div>
 -->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimikkusu)](https://github.com/anuraghazra/github-readme-stats)
