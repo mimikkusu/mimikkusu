@@ -4,9 +4,13 @@
  
  </div>
 <div align = "center">
-  <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
+  <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFmODFndDRmNGZkMG5uYXR0OG4zNXNsM2h5MmF6c2Y3eTd0ODNoNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j0nQ1rhf13Nmg/giphy.gif" width="200" />
+</div>
+<div align = "center">
+ <a href="mailto:mthr35@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
+---
 ## Hello!👋 I'm　Harashima Mitsuhiro!
 
 👨‍🎓 I'm studying software at sunmoon university<br>
@@ -14,7 +18,6 @@
 🐣 My dream is to be software engineer <br>
 &nbsp;　<em>nice to me you!</em>
 
----
 ### project
 
 ---
