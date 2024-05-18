@@ -18,10 +18,10 @@
 ---
 ## Hello!👋 I'm　Harashima Mitsuhiro!
 
-👨‍🎓 I'm studying software at sunmoon university<br>
-🙌 I like talking with friends please talk to me<br>
+👨‍🎓 I am a university student at sunmoon university<br>
+🙌 My major is AIsoftware <br>
 🐣 My dream is to be software engineer <br>
-&nbsp;　<em>nice to me you!</em>
+<strong>🌟thank you for your watching my github nice to me you!   🌟</strong>
 
 ### project
 
