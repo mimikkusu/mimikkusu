@@ -1,6 +1,11 @@
-
+<div align ="center">
+ 
  ![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=mimikkusu&section=header&textBg=false&reversal=false&rotate=0&desc=github&descSize=30&descAlignY=70)
-
+ 
+ </div>
+<div align = "center">
+  <img src = "https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
+</div>
 
 ## Hello!👋 I'm　Harashima Mitsuhiro!
 
