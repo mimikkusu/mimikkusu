@@ -1,16 +1,18 @@
 
-### Hello!👋 I'm　Harashima Mitsuhiro!
----
-
-### introduce
+## Hello!👋 I'm　Harashima Mitsuhiro!
 
 🐣 I'm a egg of engneer!<br>
 👨‍🎓 I'm studying software at sunmoon university<br>
 🙌 I like talking with friends please talk to me<br>
-<em>nice to me you!</em>
+💻 My dream is to be software engineer <br>
+&nbsp;　<em>nice to me you!</em>
+
+---
+### project
+
 ---
 
-### project 
+ 
 
 ### :hammer_and_wrench: Languages and Tools 
 
