@@ -24,6 +24,9 @@
 <strong>🌟thank you for your watching my github nice to me you!   🌟</strong>
 
 ### project
+|project |summary |
+| :---- | :---- |
+| <img> | Djangoを利用したデータベースアプリを作成してみませた。  |
 
 ---
 
