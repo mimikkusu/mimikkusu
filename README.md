@@ -14,7 +14,7 @@
 | :----: | :----: |
 | <img>                                                         | Djangoを利用したデータベースアプリを作成してみました。  |
 |[GCI2024_Summer](https://github.com/mimikkusu/GCI2024_summer)  | GCI2024_Summerに参加しました                           |
-|[directory](https://github.com/HaraYone/directory)             | 名簿管理アプリを作成しています。　　　　　　            | 
+|[directory](https://github.com/HaraYone/directory)             | 名簿管理アプリを作成中です。　　　　　　            | 
 
 
 ---
