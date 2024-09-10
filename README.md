@@ -14,7 +14,7 @@
 | :----: | :----: |
 | <img>                                                         | Djangoを利用したデータベースアプリを作成してみました。  |
 |[GCI2024_Summer](https://github.com/mimikkusu/GCI2024_summer)  | GCI2024_Summerに参加しました。                         |
-|[directory](https://github.com/HaraYone/directory)             | 名簿管理アプリを作成中です。　　　　　　　　            | 
+|[directory](https://github.com/HaraYone/directory)             | 名簿管理アプリを作成しました。　　　　　　            | 
 |[]()                                                           | 大学チーム課題で、ある会社のデータ予測を行いました。　　 |
 |                                                              | 大学のチームプロジェクトで作成しました。                 |
 
