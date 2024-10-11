@@ -15,7 +15,7 @@
 |[GCI2024_Summer](https://github.com/mimikkusu/GCI2024_summer)  | GCI2024_Summer                                                    |
 |[directory](https://github.com/HaraYone/directory)             | Directory Management App　　　　　                                | 
 |[]()                                                           | Business proposals to telecommunications carriers(on working)　　 |
-|[]()                                                           | Bus information app for Sunmoon University(on working)            |
+|[TimeWise](https://github.com/TimeWiseProject/TimeWise)        | Bus information app for Sunmoon University(on working)            |
 |[TranslationApp](https://github.com/HaraYone/TranslationApp)   |  Translation Apps(on working)                                     |
 
 ---
